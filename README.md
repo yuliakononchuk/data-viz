@@ -1,1 +1,1 @@
-# data-viz
+# Sample data vizualisation projects
